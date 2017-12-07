@@ -6,7 +6,7 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 
 |Name|Installation*|Description|Source|
 |----|-------------|-----------|-------|
-|Adocus|N/A|ArchiMate-for-Papyrus|[Github](https://github.com/Adocus/ArchiMate-for-Papyrus)|
+|ArchiMate-for-Papyrus|[![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3288661 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")| [Archimate](http://pubs.opengroup.org/architecture/archimate2-doc/) integration in Papyrus|[Github](https://github.com/Adocus/ArchiMate-for-Papyrus)|
 |Anatomy|N/A|N/A|[Github](https://github.com/patnan/papyrus_anatomy)|
 |Mast Evaluation|[Manual](https://mast.unican.es/umlmast/marte2mast/)|Tooling for evaluation of Papyrus-Marte models with [MAST](https://mast.unican.es/)|[Gitlab](https://gitlab.com/mkroehnert/Marte2Masty)|
 |Papyrus BPMN|[Oxygen](http://download.eclipse.org/modeling/mdt/papyrus/components/bpmn/oxygen/)|A DSML for [BPMN](http://www.omg.org/spec/BPMN/2.0/About-BPMN/)|[Eclipse](https://git.eclipse.org/c/papyrus/org.eclipse.papyrus-bpmn.git/)|
