@@ -23,6 +23,11 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |UML2Ruby|[Update site](http://lizzard.freeshell.net/UML2Ruby/)|A generator from [UML to Ruby](http://uiuc-cs428.github.io/uml2ruby/)|[Github](https://github.com/uiuc-cs428/uml2ruby)|
 |UML2Solidity|[Mars](http://urszeidler.github.io/uml2solidity/uml2solidity-updatesite)|A generator from UML to [Solidity](https://solidity.readthedocs.io/en/develop/)|[Github](https://github.com/UrsZeidler/uml2solidity)|
 
+A list of [Docker](https://www.docker.com/) images containing Papyrus
+
+|Name|Installation*|Description|Source|
+|----|-------------|-----------|-------|
+|qperez/eclipse-mt-jdk8|[Docker Hub](https://hub.docker.com/r/qperez/eclipse-mt-jdk8/)|Eclipse Oxygen 2 Modeling Tools with Acceleo, ATL and Papyrus|[Github](https://github.com/qperez/docker-eclipse-mt-jdk8)|
 
 *: Neon, Oxygen, Photon are the names of Eclipse [Simultaneous Release](https://wiki.eclipse.org/Simultaneous_Release)
 
