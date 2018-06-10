@@ -26,6 +26,7 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |UML2Raml|[Installation Neon](https://github.com/DavideRossi/uml2raml#installation-and-usage)|A generator from UML to [Raml](https://raml.org/)|[Github](https://github.com/DavideRossi/uml2raml)|
 |UML2Ruby|[Market Place](https://marketplace.eclipse.org/content/uml2ruby)|A generator from [UML to Ruby](http://uiuc-cs428.github.io/uml2ruby/)|[Github](https://github.com/uiuc-cs428/uml2ruby)|
 |UML2Solidity|[Mars](http://urszeidler.github.io/uml2solidity/uml2solidity-updatesite)|A generator from UML to [Solidity](https://solidity.readthedocs.io/en/develop/)|[Github](https://github.com/UrsZeidler/uml2solidity)|
+|Viatra Obfuscator|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|An obfuscator for models|[Eclipse](http://git.eclipse.org/c/viatra/org.eclipse.viatra.modelobfuscator.git)|
 
 A list of [Docker](https://www.docker.com/) images containing Papyrus
 
