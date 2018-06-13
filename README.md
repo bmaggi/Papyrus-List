@@ -28,7 +28,7 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |Viatra Obfuscator|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|An obfuscator for models|[Eclipse](http://git.eclipse.org/c/viatra/org.eclipse.viatra.modelobfuscator.git)|
 |Eclipse Gendoc|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|[DocGeneration](https://www.eclipse.org/gendoc/) for models|[Eclipse](http://git.eclipse.org/c/gendoc/org.eclipse.gendoc.git/)|
 |Eclipse [UML Generators](https://www.eclipse.org/umlgen/)|[Mars](http://download.eclipse.org/umlgen/updates/releases/1.0.0/mars/)|  Bridge the gap between UML models and source code|[Eclipse](http://git.eclipse.org/c/umlgen/org.eclipse.umlgen.git)|
-
+Eclipse UPR|[Luna](https://www.eclipse.org/downloads/download.php?file=/upr/0.9RC1/org.eclipse.upr.profiles-0.9.0RC1-incubation.zip) |Eclipse UML Profiles Repository |[Eclipse](http://git.eclipse.org/c/upr/upr.git)|
 
 A list of Papyrus Prototypes (No release)
 
@@ -46,5 +46,5 @@ A list of [Docker](https://www.docker.com/) images containing Papyrus
 |----|-------------|-----------|-------|
 |qperez/eclipse-mt-jdk8|[Docker Hub](https://hub.docker.com/r/qperez/eclipse-mt-jdk8/)|Eclipse Oxygen 2 Modeling Tools with Acceleo, ATL and Papyrus|[Github](https://github.com/qperez/docker-eclipse-mt-jdk8)|
 
-*: Neon, Oxygen, Photon are the names of Eclipse [Simultaneous Release](https://wiki.eclipse.org/Simultaneous_Release)
+*:Luna, Mars, Neon, Oxygen, Photon are the names of Eclipse [Simultaneous Release](https://wiki.eclipse.org/Simultaneous_Release)
 
