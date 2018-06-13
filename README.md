@@ -11,7 +11,6 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |Name|Installation*|Description|Source|
 |----|-------------|-----------|-------|
 |ArchiMate-for-Papyrus|[![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3288661 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")| [Archimate](http://pubs.opengroup.org/architecture/archimate2-doc/) integration in Papyrus|[Github](https://github.com/Adocus/ArchiMate-for-Papyrus)|
-|Anatomy|N/A|N/A|[Github](https://github.com/patnan/papyrus_anatomy)|
 |Mast Evaluation|[Manual](https://mast.unican.es/umlmast/marte2mast/)|Tooling for evaluation of Papyrus-Marte models with [MAST](https://mast.unican.es/)|[Gitlab](https://gitlab.com/mkroehnert/Marte2Masty)|
 |Papyrus BPMN|[Oxygen](http://download.eclipse.org/modeling/mdt/papyrus/components/bpmn/oxygen/)|A DSML for [BPMN](http://www.omg.org/spec/BPMN/2.0/About-BPMN/)|[Eclipse](https://git.eclipse.org/c/papyrus/org.eclipse.papyrus-bpmn.git/)|
 |Papyrus Information Modeling|[Oxygen](http://download.eclipse.org/modeling/mdt/papyrus/components/information.modeling/updates/oxygen/0.8.0M1/)|A DSML for [Information Modeling](https://wiki.eclipse.org/Papyrus_for_Information_Modeling)|[Eclipse](https://git.eclipse.org/c/papyrus/org.eclipse.papyrus-informationmodeling.git/)|
@@ -27,6 +26,19 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |UML2Ruby|[Market Place](https://marketplace.eclipse.org/content/uml2ruby)|A generator from [UML to Ruby](http://uiuc-cs428.github.io/uml2ruby/)|[Github](https://github.com/uiuc-cs428/uml2ruby)|
 |UML2Solidity|[Mars](http://urszeidler.github.io/uml2solidity/uml2solidity-updatesite)|A generator from UML to [Solidity](https://solidity.readthedocs.io/en/develop/)|[Github](https://github.com/UrsZeidler/uml2solidity)|
 |Viatra Obfuscator|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|An obfuscator for models|[Eclipse](http://git.eclipse.org/c/viatra/org.eclipse.viatra.modelobfuscator.git)|
+|Eclipse Gendoc|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|[DocGeneration](https://www.eclipse.org/gendoc/) for models|[Eclipse](http://git.eclipse.org/c/gendoc/org.eclipse.gendoc.git/)|
+|Eclipse [UML Generators](https://www.eclipse.org/umlgen/)|[Mars](http://download.eclipse.org/umlgen/updates/releases/1.0.0/mars/)|  Bridge the gap between UML models and source code|[Eclipse](http://git.eclipse.org/c/umlgen/org.eclipse.umlgen.git)|
+
+
+A list of Papyrus Prototypes (No release)
+
+|Name|Description|Source|
+|----|-----------|-------|
+|Anatomy|N/A|[Github](https://github.com/patnan/papyrus_anatomy)|
+|Papyrus XTUML | Tool to edit, execute and translate xtUML models. |[Eclipse](http://git.eclipse.org/c/papyrus-xtuml/papyrus-xtuml.git)|
+
+
+
 
 A list of [Docker](https://www.docker.com/) images containing Papyrus
 
