@@ -30,16 +30,6 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |Eclipse [UML Generators](https://www.eclipse.org/umlgen/)|[Mars](http://download.eclipse.org/umlgen/updates/releases/1.0.0/mars/)|  Bridge the gap between UML models and source code|[Eclipse](http://git.eclipse.org/c/umlgen/org.eclipse.umlgen.git)|
 Eclipse UPR|[Luna](https://www.eclipse.org/downloads/download.php?file=/upr/0.9RC1/org.eclipse.upr.profiles-0.9.0RC1-incubation.zip) |Eclipse UML Profiles Repository |[Eclipse](http://git.eclipse.org/c/upr/upr.git)|
 
-A list of Papyrus Prototypes (No release)
-
-|Name|Description|Source|
-|----|-----------|-------|
-|Anatomy|N/A|[Github](https://github.com/patnan/papyrus_anatomy)|
-|Papyrus XTUML | Tool to edit, execute and translate xtUML models. |[Eclipse](http://git.eclipse.org/c/papyrus-xtuml/papyrus-xtuml.git)|
-
-
-
-
 A list of [Docker](https://www.docker.com/) images containing Papyrus
 
 |Name|Installation*|Description|Source|
