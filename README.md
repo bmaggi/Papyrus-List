@@ -25,10 +25,10 @@ A list to reference  [Eclipse Papyrus](https://www.eclipse.org/papyrus/) extensi
 |UML2Raml|[Installation Neon](https://github.com/DavideRossi/uml2raml#installation-and-usage)|A generator from UML to [Raml](https://raml.org/)|[Github](https://github.com/DavideRossi/uml2raml)|
 |UML2Ruby|[Market Place](https://marketplace.eclipse.org/content/uml2ruby)|A generator from [UML to Ruby](http://uiuc-cs428.github.io/uml2ruby/)|[Github](https://github.com/uiuc-cs428/uml2ruby)|
 |UML2Solidity|[Mars](http://urszeidler.github.io/uml2solidity/uml2solidity-updatesite)|A generator from UML to [Solidity](https://solidity.readthedocs.io/en/develop/)|[Github](https://github.com/UrsZeidler/uml2solidity)|
-|Viatra Obfuscator|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|An obfuscator for models|[Eclipse](http://git.eclipse.org/c/viatra/org.eclipse.viatra.modelobfuscator.git)|
-|Eclipse Gendoc|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|[DocGeneration](https://www.eclipse.org/gendoc/) for models|[Eclipse](http://git.eclipse.org/c/gendoc/org.eclipse.gendoc.git/)|
-|Eclipse [UML Generators](https://www.eclipse.org/umlgen/)|[Mars](http://download.eclipse.org/umlgen/updates/releases/1.0.0/mars/)|  Bridge the gap between UML models and source code|[Eclipse](http://git.eclipse.org/c/umlgen/org.eclipse.umlgen.git)|
-Eclipse UPR|[Luna](https://www.eclipse.org/downloads/download.php?file=/upr/0.9RC1/org.eclipse.upr.profiles-0.9.0RC1-incubation.zip) |Eclipse UML Profiles Repository |[Eclipse](http://git.eclipse.org/c/upr/upr.git)|
+|Viatra Obfuscator|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|An obfuscator for models|[Eclipse](https://git.eclipse.org/c/viatra/org.eclipse.viatra.modelobfuscator.git)|
+|Eclipse Gendoc|[Update site](http://download.eclipse.org/viatra/modelobfuscator/updates/integration/)|[DocGeneration](https://www.eclipse.org/gendoc/) for models|[Eclipse](https://git.eclipse.org/c/gendoc/org.eclipse.gendoc.git/)|
+|Eclipse [UML Generators](https://www.eclipse.org/umlgen/)|[Mars](http://download.eclipse.org/umlgen/updates/releases/1.0.0/mars/)|  Bridge the gap between UML models and source code|[Eclipse](https://git.eclipse.org/c/umlgen/org.eclipse.umlgen.git)|
+Eclipse UPR|[Luna](https://www.eclipse.org/downloads/download.php?file=/upr/0.9RC1/org.eclipse.upr.profiles-0.9.0RC1-incubation.zip) |Eclipse UML Profiles Repository |[Eclipse](https://git.eclipse.org/c/upr/upr.git)|
 
 A list of [Docker](https://www.docker.com/) images containing Papyrus
 
