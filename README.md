@@ -35,6 +35,7 @@ A list of [Docker](https://www.docker.com/) images containing Papyrus
 |Name|Installation*|Description|Source|
 |----|-------------|-----------|-------|
 |qperez/eclipse-mt-jdk8|[Docker Hub](https://hub.docker.com/r/qperez/eclipse-mt-jdk8/)|Eclipse Oxygen 2 Modeling Tools with Acceleo, ATL and Papyrus|[Github](https://github.com/qperez/docker-eclipse-mt-jdk8)|
+|openkbs/papyrus-sysml-docker|[Docker Hub](https://hub.docker.com/r/openkbs/papyrus-sysml-docker)|Eclipse-Oxygen + SysML Modeling + Java 8 JDK + Maven 3.5 + Python 3.5 + X11 (display GUI)|[Github](https://github.com/DrSnowbird/papyrus-sysml-docker)|
 
 *:Luna, Mars, Neon, Oxygen, Photon are the names of Eclipse [Simultaneous Release](https://wiki.eclipse.org/Simultaneous_Release)
 
